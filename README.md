@@ -1,2 +1,1 @@
-# piscine42
-lausanne42 piscine
+C coding
